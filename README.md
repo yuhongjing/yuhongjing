@@ -7,8 +7,8 @@
   </samp>
 </p>
 
-<div style="text-align: center">
-<img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/logo.jpg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/logo.jpg">
 </div>
 
 ### Programming Languages  :rocket:
