@@ -7,7 +7,9 @@
   </samp>
 </p>
 
+<div style="text-align: center">
 <img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/logo.jpg">
+</div>
 
 ### Programming Languages  :rocket:
 |  <img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/js.png" width=60> |  <img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/php.svg" width=60> |  <img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/node.svg" width=60> |  <img src="https://raw.githubusercontent.com/yuhongjing/yuhongjing/master/img/linux.png" width=60> |
